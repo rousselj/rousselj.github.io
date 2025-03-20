@@ -1,0 +1,22 @@
+<histoire titre='histoire 3' auteur='auteur 3' illustrateur='illustrateur 3'>
+    <page_histoire>
+        <texte_histoire>Il était trois fois...
+        </texte_histoire>
+        <image_histoire src="https://jr64b.pagesperso-orange.fr/img/" nom="CaMarche.png"/>
+    </page_histoire>
+    <page_histoire>
+        <texte_histoire>Alors que...
+        </texte_histoire>
+        <image_histoire src="https://jr64b.pagesperso-orange.fr/img/" nom="CaMarchePas.png"/>
+    </page_histoire>
+    <page_histoire>
+        <texte_histoire>Et tout d'un coup...
+        </texte_histoire>
+        <image_histoire src="https://jr64b.pagesperso-orange.fr/img/" nom="CaMarche.png"/>
+    </page_histoire>
+    <page_histoire>
+        <texte_histoire>À la fin...
+        </texte_histoire>
+        <image_histoire src="https://jr64b.pagesperso-orange.fr/img/" nom="CaMarche.png"/>
+    </page_histoire>
+</histoire>

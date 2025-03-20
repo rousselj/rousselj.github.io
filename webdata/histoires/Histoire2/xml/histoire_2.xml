@@ -1,0 +1,22 @@
+<histoire titre='histoire 2' auteur='auteur 2' illustrateur='illustrateur 2'>
+    <page_histoire>
+        <texte_histoire>Il était deux fois...
+        </texte_histoire>
+        <image_histoire src="https://jr64b.pagesperso-orange.fr/img/" nom="CaMarche.png"/>
+    </page_histoire>
+    <page_histoire>
+        <texte_histoire>Mais un beau jour...
+        </texte_histoire>
+        <image_histoire src="https://cdn.futura-sciences.com/buildsv6/images/wide1920/9/3/2/" nom="9321f807a3_100799_soleil-rouge.jpg"/>
+    </page_histoire>
+    <page_histoire>
+        <texte_histoire>Et heureusement...
+        </texte_histoire>
+        <image_histoire src="https://jr64b.pagesperso-orange.fr/img/" nom="CaMarche.png"/>
+    </page_histoire>
+    <page_histoire>
+        <texte_histoire>Pour finir...
+        </texte_histoire>
+        <image_histoire src="https://jr64b.pagesperso-orange.fr/img/" nom="CaMarche.png"/>
+    </page_histoire>
+</histoire>

@@ -1,0 +1,32 @@
+<histoires racine="histoires">
+	<histoire titre='Histoire 1' auteur='Wauteur 1' illustrateur='Willustrateur 1' fichier='histoire_1.xml' dossier='Histoire1' localImgDossier="img">
+	</histoire>
+	<histoire titre='Histoire 2' auteur='Xauteur 2' illustrateur='Xillustrateur 2' fichier='histoire_2.xml' dossier='Histoire2' localImgDossier="img">
+	</histoire>
+	<histoire titre='Histoire 3' auteur='Yauteur 3' illustrateur='Yillustrateur 3' fichier='histoire_3.xml' dossier='Histoire3' localImgDossier="img">
+	</histoire>
+	<histoire titre='Histoire 4' auteur='Wauteur 1' illustrateur='Willustrateur 1' fichier='histoire_4.xml' dossier='Histoire4' localImgDossier="img">
+	</histoire>
+	<histoire titre='Laura dans les nuages' auteur='Julien Roussel' illustrateur='Julien Roussel' fichier='histoire_5.xml' dossier='Histoire5' localImgDossier="img">
+	</histoire>
+	<histoire titre='Histoire 6' auteur='Yauteur 3' illustrateur='Yillustrateur 3' fichier='histoire_3.xml' dossier='Histoire6' localImgDossier="img">
+	</histoire>
+	<histoire titre='Histoire 7' auteur='Wauteur 1' illustrateur='Willustrateur 1' fichier='histoire_1.xml' dossier='Histoire7' localImgDossier="img">
+	</histoire>
+	<histoire titre='Histoire 8' auteur='Xauteur 2' illustrateur='Xillustrateur 2' fichier='histoire_2.xml' dossier='Histoire8' localImgDossier="img">
+	</histoire>
+	<histoire titre='Histoire 9' auteur='Yauteur 3' illustrateur='Yillustrateur 3' fichier='histoire_3.xml' dossier='Histoire9' localImgDossier="img">
+	</histoire>
+	<histoire titre='Histoire 10' auteur='Wauteur 1' illustrateur='Willustrateur 1' fichier='histoire_1.xml' dossier='Histoire10' localImgDossier="img">
+	</histoire>
+	<histoire titre='Histoire 11' auteur='Xauteur 2' illustrateur='Xillustrateur 2' fichier='histoire_2.xml' dossier='Histoire11' localImgDossier="img">
+	</histoire>
+	<histoire titre='Histoire 12' auteur='Yauteur 3' illustrateur='Yillustrateur 3' fichier='histoire_3.xml' dossier='Histoire12' localImgDossier="img">
+	</histoire>
+	<histoire titre='Histoire 13' auteur='Wauteur 1' illustrateur='Willustrateur 1' fichier='histoire_1.xml' dossier='Histoire13' localImgDossier="img">
+	</histoire>
+	<histoire titre='Histoire 14' auteur='Xauteur 2' illustrateur='Xillustrateur 2' fichier='histoire_2.xml' dossier='Histoire14' localImgDossier="img">
+	</histoire>
+	<histoire titre='Histoire 15' auteur='Yauteur 3' illustrateur='Yillustrateur 3' fichier='histoire_4.xml' dossier='Histoire4' localImgDossier="img">
+	</histoire>
+</histoires>
