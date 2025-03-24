@@ -2,7 +2,7 @@
     <page_histoire>
         <texte_histoire>Il était deux fois...
         </texte_histoire>
-        <image_histoire src="https://jr64b.pagesperso-orange.fr/img/" nom="CaMarche.png"/>
+        <image_histoire src="https://rousselj.github.io/webdata/img/" nom="CaMarche.png"/>
     </page_histoire>
     <page_histoire>
         <texte_histoire>Mais un beau jour...
@@ -12,11 +12,11 @@
     <page_histoire>
         <texte_histoire>Et heureusement...
         </texte_histoire>
-        <image_histoire src="https://jr64b.pagesperso-orange.fr/img/" nom="CaMarche.png"/>
+        <image_histoire src="https://rousselj.github.io/webdata/img/" nom="CaMarche.png"/>
     </page_histoire>
     <page_histoire>
         <texte_histoire>Pour finir...
         </texte_histoire>
-        <image_histoire src="https://jr64b.pagesperso-orange.fr/img/" nom="CaMarche.png"/>
+        <image_histoire src="https://rousselj.github.io/webdata/img/" nom="CaMarche.png"/>
     </page_histoire>
 </histoire>

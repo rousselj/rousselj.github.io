@@ -2,21 +2,21 @@
     <page_histoire>
         <texte_histoire>Il était une fois, un petit chat...
         </texte_histoire>
-        <image_histoire src="https://jr64b.pagesperso-orange.fr/histoires/Histoire4/img/" nom="IlEtaitUneFois.png"/>
+        <image_histoire src="https://rousselj.github.io/webdata/histoires/Histoire4/img/" nom="IlEtaitUneFois.png"/>
     </page_histoire>
     <page_histoire>
         <texte_histoire>Un beau jour, il partit...
         </texte_histoire>
-        <image_histoire src="https://jr64b.pagesperso-orange.fr/histoires/Histoire4/img/" nom="UnJour.png"/>
+        <image_histoire src="https://rousselj.github.io/webdata/histoires/Histoire4/img/" nom="UnJour.png"/>
     </page_histoire>
     <page_histoire>
         <texte_histoire>Et soudain, alors qu'il se promenait...
         </texte_histoire>
-        <image_histoire src="https://jr64b.pagesperso-orange.fr/histoires/Histoire4/img/" nom="QuandSoudain.png"/>
+        <image_histoire src="https://rousselj.github.io/webdata/histoires/Histoire4/img/" nom="QuandSoudain.png"/>
     </page_histoire>
     <page_histoire>
         <texte_histoire>Finalement, il arriva...
         </texte_histoire>
-        <image_histoire src="https://jr64b.pagesperso-orange.fr/histoires/Histoire4/img/" nom="Finalement.png"/>
+        <image_histoire src="https://rousselj.github.io/webdata/histoires/Histoire4/img/" nom="Finalement.png"/>
     </page_histoire>
 </histoire>
